@@ -1,0 +1,7 @@
+asgiref
+Django
+sqlparse
+python-decouple
+django-taggit
+Markdown
+psycopg
